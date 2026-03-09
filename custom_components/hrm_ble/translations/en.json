@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "confirm": {
+        "data": {
+          "title": "Name (Optional)",
+          "mac_address": "MAC Address"
+        }
+      }
+    }
+  }
+}
